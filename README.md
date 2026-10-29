@@ -43,7 +43,7 @@ commits         [█████████████░░░░░░░] s
 ### rules i live by
 
 1. if it works dont touch it
-2. if it dont work touch it harder
+2. if it dont work touch it harder (Pause)
 3. commit messages are 5 words max
 4. never trust a password with 2024 in it
 
